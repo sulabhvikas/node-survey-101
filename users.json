@@ -1,0 +1,1430 @@
+[
+    {
+        "EMP_NAME": "Ashwin Puttur",
+        "EMP_ID": "2880",
+        "CUID": "AA49447",
+        "Level": "5",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Sweety Rath",
+        "EMP_ID": "2925",
+        "CUID": "AA49922",
+        "Level": "5",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Ashish Verma",
+        "EMP_ID": "3284",
+        "CUID": "AA59132",
+        "Level": "6",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Shiva shankaran",
+        "EMP_ID": "1299",
+        "CUID": "SXSHAN6",
+        "Level": "7",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Rohith Raj",
+        "EMP_ID": "3239",
+        "CUID": "AA56874",
+        "Level": "7",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Arindam Chakraborty",
+        "EMP_ID": "1745",
+        "CUID": "AXCHAK5",
+        "Level": "8",
+        "Division": "Ajay Kulkarni"
+    },
+    {
+        "EMP_NAME": "Alias Kunjicheria",
+        "EMP_ID": "2654",
+        "CUID": "AA15460",
+        "Level": "5",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Satheesh Lal",
+        "EMP_ID": "3266",
+        "CUID": "AA58213",
+        "Level": "5",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Jency Thomas",
+        "EMP_ID": "2980",
+        "CUID": "AA53494",
+        "Level": "5",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Gaurav Kumar",
+        "EMP_ID": "3118",
+        "CUID": "AA53632",
+        "Level": "5",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Himanshu Soni",
+        "EMP_ID": "3210",
+        "CUID": "AA54166",
+        "Level": "6",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Anil Ramachandra",
+        "EMP_ID": "2653",
+        "CUID": "AA15459",
+        "Level": "6",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Biju Vasu",
+        "EMP_ID": "2995",
+        "CUID": "AA53509",
+        "Level": "6",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Manish Singh",
+        "EMP_ID": "2649",
+        "CUID": "AA15455",
+        "Level": "6",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Vijay Kothekar",
+        "EMP_ID": "2659",
+        "CUID": "AA15465",
+        "Level": "7",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Bhavesh Bejdas",
+        "EMP_ID": "2656",
+        "CUID": "AA15462",
+        "Level": "7",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Jayaprakash Gummadi",
+        "EMP_ID": "2969",
+        "CUID": "AA53483",
+        "Level": "7",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Aastha Chadha",
+        "EMP_ID": "2729",
+        "CUID": "AA15551",
+        "Level": "7",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Vamsi Dasari",
+        "EMP_ID": "2966",
+        "CUID": "AA53474",
+        "Level": "8",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Rajesh Rao",
+        "EMP_ID": "2650",
+        "CUID": "AA15456",
+        "Level": "8",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Sudarshan Ganta",
+        "EMP_ID": "3141",
+        "CUID": "AA53655",
+        "Level": "8",
+        "Division": "George Jose"
+    },
+    {
+        "EMP_NAME": "Amrish Kumar",
+        "EMP_ID": "874",
+        "CUID": "AXKUM13",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Susant Sahu",
+        "EMP_ID": "1086",
+        "CUID": "SSAHU",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sreenivasa Rao Goli",
+        "EMP_ID": "1249",
+        "CUID": "SGOLI",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Richa Singh",
+        "EMP_ID": "1964",
+        "CUID": "RXSING7",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sangeetha Muralidharan",
+        "EMP_ID": "1561",
+        "CUID": "SAMURAL",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Abhishek Jaiswal",
+        "EMP_ID": "1692",
+        "CUID": "AXJAISW",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Venkata Kandukuri",
+        "EMP_ID": "3372",
+        "CUID": "AA67757",
+        "Level": "4",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Vema Reddy",
+        "EMP_ID": "786",
+        "CUID": "vreddy",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Roshan John",
+        "EMP_ID": "1331",
+        "CUID": "RXJOHN",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rabi Sahu",
+        "EMP_ID": "770",
+        "CUID": "rsahu",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Subramanyam Vajrala",
+        "EMP_ID": "927",
+        "CUID": "SVAJRAL",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Krishna Kishore",
+        "EMP_ID": "1474",
+        "CUID": "KXKISHO",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Vinod Tai",
+        "EMP_ID": "1486",
+        "CUID": "VTAI",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Mythri Janardhan",
+        "EMP_ID": "389",
+        "CUID": "mjanard",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Manish Kumar Sharma",
+        "EMP_ID": "3205",
+        "CUID": "AA54160",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rikki Bindra",
+        "EMP_ID": "3313",
+        "CUID": "AA62495",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Ratish Jain",
+        "EMP_ID": "2759",
+        "CUID": "AA18407",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Parveen Gurtatta",
+        "EMP_ID": "2770",
+        "CUID": "AA24060",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sudheer Kumar Devichand",
+        "EMP_ID": "2798",
+        "CUID": "AA43444",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Mohit Prasad",
+        "EMP_ID": "3323",
+        "CUID": "AA63453",
+        "Level": "5",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sambeet Senapati",
+        "EMP_ID": "272",
+        "CUID": "ssenapa",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Lejil E",
+        "EMP_ID": "858",
+        "CUID": "LERACHA",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Gunasekharan Narayana",
+        "EMP_ID": "481",
+        "CUID": "GSNARAY",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Srikrishna Achanta",
+        "EMP_ID": "393",
+        "CUID": "spachan",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Pradeep Rajashekar",
+        "EMP_ID": "248",
+        "CUID": "prajash",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Varun Airi",
+        "EMP_ID": "250",
+        "CUID": "vairi",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rama Gautam",
+        "EMP_ID": "1880",
+        "CUID": "RKGAUTA",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Ravi Sehgal",
+        "EMP_ID": "1334",
+        "CUID": "RXSEHGA",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Mayuri Srivastava",
+        "EMP_ID": "338",
+        "CUID": "mxsriva",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rajesh Jayabalan",
+        "EMP_ID": "969",
+        "CUID": "RJAYABA",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sudhi Sukumaran",
+        "EMP_ID": "1284",
+        "CUID": "SMSUKUM",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rajesh Menon",
+        "EMP_ID": "1242",
+        "CUID": "RRMENON",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Saurabh Agarwal",
+        "EMP_ID": "322",
+        "CUID": "sxagar2",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Prahlad Bhakt",
+        "EMP_ID": "1943",
+        "CUID": "PBHAKT",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rajesh Kunnathe Ravi",
+        "EMP_ID": "2184",
+        "CUID": "RKUNNAT",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Vinayak Agarwal",
+        "EMP_ID": "3564",
+        "CUID": "AA82496",
+        "Level": "6",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sudheendra Shirahatti",
+        "EMP_ID": "585",
+        "CUID": "SSHIRAH",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sudipta Bhowmik",
+        "EMP_ID": "324",
+        "CUID": "sbhowmi",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Sunitharani Sriramulu",
+        "EMP_ID": "613",
+        "CUID": "SRSRIRA",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Mahesh Nair",
+        "EMP_ID": "104",
+        "CUID": "mnair",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Rajendra Shankarappa",
+        "EMP_ID": "1014",
+        "CUID": "RCSHANK",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Avijit Chakraborty",
+        "EMP_ID": "1774",
+        "CUID": "AXCHAK6",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Mohan Maligappa",
+        "EMP_ID": "2640",
+        "CUID": "MMALIGA",
+        "Level": "7",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Suresh Rao",
+        "EMP_ID": "803",
+        "CUID": "sxrao8",
+        "Level": "8",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Jyothi Suresh",
+        "EMP_ID": "1353",
+        "CUID": "JXSURES",
+        "Level": "8",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Ragavendra Udupa",
+        "EMP_ID": "1643",
+        "CUID": "RUDUPA",
+        "Level": "8",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Shirish Singh",
+        "EMP_ID": "2783",
+        "CUID": "AA41057",
+        "Level": "8",
+        "Division": "Naba Kumar Das"
+    },
+    {
+        "EMP_NAME": "Manjunatha Gingade",
+        "EMP_ID": "2281",
+        "CUID": "MGINGAD",
+        "Level": "4",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Manjunath G P",
+        "EMP_ID": "1318",
+        "CUID": "MXGP",
+        "Level": "5",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Srinivas.V",
+        "EMP_ID": "544",
+        "CUID": "SVARAGA",
+        "Level": "5",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Saikat Roy",
+        "EMP_ID": "2345",
+        "CUID": "SXROY5",
+        "Level": "5",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Syed Ahmed",
+        "EMP_ID": "965",
+        "CUID": "SXAHME2",
+        "Level": "6",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Keshava Hegde",
+        "EMP_ID": "124",
+        "CUID": "kxhs",
+        "Level": "6",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Rameswar Subudhi",
+        "EMP_ID": "1757",
+        "CUID": "CSUBUDH",
+        "Level": "6",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Ritesh Ojha",
+        "EMP_ID": "1638",
+        "CUID": "ROJHA",
+        "Level": "7",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Vishwavasu Marathe",
+        "EMP_ID": "2767",
+        "CUID": "AA22831",
+        "Level": "7",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Nagesh Mallya",
+        "EMP_ID": "3420",
+        "CUID": "AA72993",
+        "Level": "8",
+        "Division": "Nagabhushan TR"
+    },
+    {
+        "EMP_NAME": "Venkat Reddy Soma",
+        "EMP_ID": "1047",
+        "CUID": "VSOMA",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Katamreddy Lingareddy",
+        "EMP_ID": "1185",
+        "CUID": "KLINGAR",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Ravi Korrapati",
+        "EMP_ID": "418",
+        "CUID": "rkorrap",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Anshul",
+        "EMP_ID": "527",
+        "CUID": "AABHINA",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Nihar Samantaray",
+        "EMP_ID": "1345",
+        "CUID": "nsamant",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Balee Nagpure",
+        "EMP_ID": "601",
+        "CUID": "BNAGPUR",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sakuntala Mahanta",
+        "EMP_ID": "911",
+        "CUID": "SMAHANT",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Anil Kumar Darsha",
+        "EMP_ID": "1379",
+        "CUID": "ADARSHA",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Rejul Vincent",
+        "EMP_ID": "1384",
+        "CUID": "RKVINCE",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Abdul Rasheed Abdul Huq",
+        "EMP_ID": "3764",
+        "CUID": "AA96672",
+        "Level": "4",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Priyabrata Padhi",
+        "EMP_ID": "1028",
+        "CUID": "PPADHI",
+        "Level": "5",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Vijayan Thampy",
+        "EMP_ID": "73",
+        "CUID": "vthampy",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sudarshan Chakrabarty",
+        "EMP_ID": "155",
+        "CUID": "sxchakr",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Samanth Jain Gotadike Shanthiprasad",
+        "EMP_ID": "328",
+        "CUID": "sxjain",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sandeep Kaup Satheesh",
+        "EMP_ID": "354",
+        "CUID": "ssathee",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Nanda Vardhan",
+        "EMP_ID": "482",
+        "CUID": "NVARDHA",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Facy Jose",
+        "EMP_ID": "510",
+        "CUID": "fxjose",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Srinivas Sudhindra",
+        "EMP_ID": "523",
+        "CUID": "SSUDHIN",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Gaurav Vishal",
+        "EMP_ID": "578",
+        "CUID": "GVISHAL",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Manjunath Aaradhya",
+        "EMP_ID": "627",
+        "CUID": "mrudrap",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Naveen Ganesh",
+        "EMP_ID": "675",
+        "CUID": "nkganes",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Vanitha Mary Prathiba Prasad",
+        "EMP_ID": "999",
+        "CUID": "VMPRASA",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Srinivas Vodnala",
+        "EMP_ID": "1243",
+        "CUID": "SVODNAL",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Vijaykrishna Ranganathan",
+        "EMP_ID": "1310",
+        "CUID": "VRANGAN",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Anand Mohandas Bharadwaj",
+        "EMP_ID": "1354",
+        "CUID": "ABHARAD",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Runa Mukherji",
+        "EMP_ID": "1688",
+        "CUID": "RMUKHER",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Jaya Keswani",
+        "EMP_ID": "1689",
+        "CUID": "JKESWAN",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Abhishek Tayal",
+        "EMP_ID": "1924",
+        "CUID": "ATAYAL",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Rahul Verma",
+        "EMP_ID": "2231",
+        "CUID": "RVERMA",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Harmeet Kaur Sokhi",
+        "EMP_ID": "2477",
+        "CUID": "HSOKHI",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sudhanva SD",
+        "EMP_ID": "3337",
+        "CUID": "AA64405",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Srikanth Kanangot Surendran",
+        "EMP_ID": "3694",
+        "CUID": "AA92109",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Raja Annanagar Pandurangan",
+        "EMP_ID": "3920",
+        "CUID": "AB08462",
+        "Level": "6",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sulabh Vikas",
+        "EMP_ID": "165",
+        "CUID": "svikas",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sudheer Mangalpady",
+        "EMP_ID": "197",
+        "CUID": "smangal",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Nishantkumar Sureshchandra Patel",
+        "EMP_ID": "631",
+        "CUID": "nxpatel",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Gowrish Bhaskar",
+        "EMP_ID": "1146",
+        "CUID": "GBHASKA",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Archana Newaskar",
+        "EMP_ID": "1481",
+        "CUID": "ANEWASK",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Nimish Mehta",
+        "EMP_ID": "1504",
+        "CUID": "NAMEHTA",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Jitendran Nair",
+        "EMP_ID": "1873",
+        "CUID": "JJANADH",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Siddhartha Singh",
+        "EMP_ID": "227",
+        "CUID": "sxsing7",
+        "Level": "8",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "KrishnaBabu Tikkisetty",
+        "EMP_ID": "715",
+        "CUID": "ktikkis",
+        "Level": "8",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Kiran Bangalore Rajanna",
+        "EMP_ID": "1497",
+        "CUID": "KRAJANN",
+        "Level": "8",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Ramesh K Dandu",
+        "EMP_ID": "2128",
+        "CUID": "DanduR",
+        "Level": "8",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Sarva Vijayanand Bollapragada",
+        "EMP_ID": "3263",
+        "CUID": "AA58210",
+        "Level": "8",
+        "Division": "Narendra Marikale"
+    },
+    {
+        "EMP_NAME": "Parthiban Ponnusamy",
+        "EMP_ID": "1886",
+        "CUID": "PXPONNU",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Rajesh Nayak",
+        "EMP_ID": "2949",
+        "CUID": "AA50995",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Suresh Muthusaamy",
+        "EMP_ID": "2965",
+        "CUID": "AA53473",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Aman Sharma",
+        "EMP_ID": "3212",
+        "CUID": "AA54652",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Gyanesh Kamal",
+        "EMP_ID": "2858",
+        "CUID": "AA49057",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Kiran Ningegowda",
+        "EMP_ID": "3159",
+        "CUID": "AA53673",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Vibin Madampath",
+        "EMP_ID": "3047",
+        "CUID": "AA53561",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Anirban Ghosh",
+        "EMP_ID": "3056",
+        "CUID": "AA53570",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Sachin Jabshetty",
+        "EMP_ID": "2984",
+        "CUID": "AA53498",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Nidhin Gireesh",
+        "EMP_ID": "2988",
+        "CUID": "AA53502",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Chetan Goudar",
+        "EMP_ID": "3179",
+        "CUID": "AA53693",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Dillip Mohapatra",
+        "EMP_ID": "3589",
+        "CUID": "AA83992",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Sivasankara Reddy Alavala",
+        "EMP_ID": "3466",
+        "CUID": "AA78536",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Harpreet Singh",
+        "EMP_ID": "3772",
+        "CUID": "AA97745",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Satish Dinnimani",
+        "EMP_ID": "3148",
+        "CUID": "AA53662",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Nagesh Sheregar",
+        "EMP_ID": "2665",
+        "CUID": "AA15471",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Guruprasad Venkateshmurthy",
+        "EMP_ID": "3594",
+        "CUID": "AA84184",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Anto Jose",
+        "EMP_ID": "3457",
+        "CUID": "AA77279",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Maneesh Mohan Kannoth",
+        "EMP_ID": "3892",
+        "CUID": "AB05768",
+        "Level": "4",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Girish Puttegowda",
+        "EMP_ID": "2672",
+        "CUID": "AA15478",
+        "Level": "5",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Debjeet Mandal",
+        "EMP_ID": "3101",
+        "CUID": "AA53615",
+        "Level": "5",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Abdul Khader Mohammed",
+        "EMP_ID": "3543",
+        "CUID": "AA81430",
+        "Level": "5",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Kalpesh Pandya",
+        "EMP_ID": "2974",
+        "CUID": "AA53488",
+        "Level": "5",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Gopinath Thirunavukkarasu",
+        "EMP_ID": "3016",
+        "CUID": "AA53530",
+        "Level": "6",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Sudeep Srihari",
+        "EMP_ID": "2739",
+        "CUID": "AA15561",
+        "Level": "6",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Rajesh Kamath",
+        "EMP_ID": "3703",
+        "CUID": "AA93081",
+        "Level": "6",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Santhosh Plakkatt",
+        "EMP_ID": "577",
+        "CUID": "sxplakk",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Praveen Manyam",
+        "EMP_ID": "2960",
+        "CUID": "AA53097",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Premdeep Banga",
+        "EMP_ID": "2730",
+        "CUID": "AA15552",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Chetankumar Lingegowda",
+        "EMP_ID": "2728",
+        "CUID": "AA15550",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Vinayak Hattangadi",
+        "EMP_ID": "3206",
+        "CUID": "AA54162",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Abhishek Pandey",
+        "EMP_ID": "2976",
+        "CUID": "AA53490",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Amit Rawal",
+        "EMP_ID": "2978",
+        "CUID": "AA53492",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Prathap Krishna KS",
+        "EMP_ID": "3001",
+        "CUID": "AA53515",
+        "Level": "7",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Jeash Velayudhan",
+        "EMP_ID": "3065",
+        "CUID": "AA53579",
+        "Level": "8",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Tilak Kini",
+        "EMP_ID": "3188",
+        "CUID": "AA53702",
+        "Level": "8",
+        "Division": "Venkata Sudhakar Nagandla"
+    },
+    {
+        "EMP_NAME": "Dilip Dronadula",
+        "EMP_ID": "1214",
+        "CUID": "DDRONAD",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Rajesh Yadaganti",
+        "EMP_ID": "1301",
+        "CUID": "RYADAGA",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Kiran Shivanandappa",
+        "EMP_ID": "438",
+        "CUID": "kshivan",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Sandeep Anand",
+        "EMP_ID": "1358",
+        "CUID": "SXANAN3",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Ravishankar Sethupathi",
+        "EMP_ID": "2501",
+        "CUID": "RSETHUP",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Srinivas Jagirdar",
+        "EMP_ID": "1475",
+        "CUID": "SJAGIRD",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Praveen Kumar Bhandi",
+        "EMP_ID": "1464",
+        "CUID": "PBHANDI",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Rahul Sehgal",
+        "EMP_ID": "2035",
+        "CUID": "RXSEHG2",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Mubassar Uruj",
+        "EMP_ID": "2837",
+        "CUID": "AA47626",
+        "Level": "4",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Paritosh.V",
+        "EMP_ID": "468",
+        "CUID": "PVANAM",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Ram Kumar Viswanathan",
+        "EMP_ID": "1296",
+        "CUID": "RXVISWA",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Sekhar Puli",
+        "EMP_ID": "215",
+        "CUID": "spuli",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Jayesh Sripada Rao",
+        "EMP_ID": "1029",
+        "CUID": "JSRIPAD",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Chandra Sekhar Talasila",
+        "EMP_ID": "1338",
+        "CUID": "CTALASI",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Prasad Vasupalli",
+        "EMP_ID": "217",
+        "CUID": "pvasupa",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Ashish Tokas",
+        "EMP_ID": "2440",
+        "CUID": "ATOKAS",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Abhishek Parashar",
+        "EMP_ID": "2466",
+        "CUID": "APARASH",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Srinivasan Venkatachalam",
+        "EMP_ID": "3434",
+        "CUID": "AA75200",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Sunil Dhawan",
+        "EMP_ID": "2203",
+        "CUID": "SDHAWAN",
+        "Level": "5",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Hariprasad KN",
+        "EMP_ID": "342",
+        "CUID": "hnaraya",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Madhukar Konapalli",
+        "EMP_ID": "240",
+        "CUID": "mkonapa",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Shanthling Kodli",
+        "EMP_ID": "371",
+        "CUID": "skodli",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Vishak Shanmugam Pillai",
+        "EMP_ID": "1224",
+        "CUID": "VXSHANM",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Ravindra Durgaiah",
+        "EMP_ID": "199",
+        "CUID": "rdurgai",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Jinu George",
+        "EMP_ID": "830",
+        "CUID": "jmgeor2",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Hemapriya Durairaj",
+        "EMP_ID": "889",
+        "CUID": "HDURAIR",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Darshan Sonbarse",
+        "EMP_ID": "951",
+        "CUID": "DSONBAR",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Dhananjaya Bennur",
+        "EMP_ID": "778",
+        "CUID": "dbennur",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Nagesh Earaiah",
+        "EMP_ID": "1287",
+        "CUID": "NEARAIA",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "R Sreenivasa Rao",
+        "EMP_ID": "1256",
+        "CUID": "RSREENI",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Venu Gopal",
+        "EMP_ID": "2430",
+        "CUID": "VGOPAL",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Murali Solayappan",
+        "EMP_ID": "2700",
+        "CUID": "AA15522",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Priya Padmanabhan",
+        "EMP_ID": "2343",
+        "CUID": "PPADMAN",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Gurdyal Singh",
+        "EMP_ID": "2669",
+        "CUID": "AA15475",
+        "Level": "6",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Sheshanandan Tiru",
+        "EMP_ID": "738",
+        "CUID": "stiru",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Pushpaja Ankalakoti",
+        "EMP_ID": "1075",
+        "CUID": "PANKALA",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Devendiran Venugopal",
+        "EMP_ID": "185",
+        "CUID": "dvenugo",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Suresh Nambrath",
+        "EMP_ID": "696",
+        "CUID": "snambra",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Rahul Sharma",
+        "EMP_ID": "1641",
+        "CUID": "RXSHAR8",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Umakanth Vichur",
+        "EMP_ID": "2647",
+        "CUID": "AA15453",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Shivakumar Sankarnarayanan",
+        "EMP_ID": "2684",
+        "CUID": "AA15506",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Ravi Rao",
+        "EMP_ID": "2668",
+        "CUID": "AA15474",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Vivek Jain",
+        "EMP_ID": "2074",
+        "CUID": "VKJAIN",
+        "Level": "7",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Sumana Gowda",
+        "EMP_ID": "151",
+        "CUID": "sgowda",
+        "Level": "8",
+        "Division": "Viswanath Seetharam"
+    },
+    {
+        "EMP_NAME": "Manoj U P",
+        "EMP_ID": "1160",
+        "CUID": "MXUP",
+        "Level": "8",
+        "Division": "Viswanath Seetharam"
+    }
+]

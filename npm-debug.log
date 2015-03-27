@@ -1,0 +1,128 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.5.1
+3 info using node@v0.12.0
+4 verbose install where, deps [ '/Users/sulabhvikas/project_home/node_projects/node-survey-prod',
+4 verbose install   [ 'express',
+4 verbose install     'socket.io',
+4 verbose install     'jade',
+4 verbose install     'mongoose',
+4 verbose install     'debug',
+4 verbose install     'express-ntlm',
+4 verbose install     'connect-mongo',
+4 verbose install     'node-windows' ] ]
+5 verbose install where, peers [ '/Users/sulabhvikas/project_home/node_projects/node-survey-prod',
+5 verbose install   [] ]
+6 info preinstall dwnodepolls@0.0.1
+7 verbose already installed skipping express-ntlm@* /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+8 verbose already installed skipping connect-mongo@* /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+9 silly cache add args [ 'node-windows@*', null ]
+10 verbose cache add spec node-windows@*
+11 silly cache add parsed spec { raw: 'node-windows@*',
+11 silly cache add   scope: null,
+11 silly cache add   name: 'node-windows',
+11 silly cache add   rawSpec: '*',
+11 silly cache add   spec: '*',
+11 silly cache add   type: 'range' }
+12 verbose addNamed node-windows@*
+13 silly addNamed semver.valid null
+14 silly addNamed semver.validRange *
+15 silly addNameRange { name: 'node-windows', range: '*', hasData: false }
+16 silly mapToRegistry name node-windows
+17 silly mapToRegistry using default registry
+18 silly mapToRegistry registry https://registry.npmjs.org/
+19 silly mapToRegistry uri https://registry.npmjs.org/node-windows
+20 verbose addNameRange registry:https://registry.npmjs.org/node-windows not in flight; fetching
+21 verbose already installed skipping express@3.4.3 /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+22 verbose get https://registry.npmjs.org/node-windows not expired, no request
+23 silly addNameRange number 2 { name: 'node-windows', range: '*', hasData: true }
+24 silly addNameRange versions [ 'node-windows',
+24 silly addNameRange   [ '0.0.1',
+24 silly addNameRange     '0.0.2',
+24 silly addNameRange     '0.1.0',
+24 silly addNameRange     '0.1.1',
+24 silly addNameRange     '0.1.2',
+24 silly addNameRange     '0.1.4',
+24 silly addNameRange     '0.1.5',
+24 silly addNameRange     '0.1.6',
+24 silly addNameRange     '0.1.7' ] ]
+25 verbose addNamed node-windows@0.1.7
+26 silly addNamed semver.valid 0.1.7
+27 silly addNamed semver.validRange 0.1.7
+28 verbose already installed skipping socket.io@~0.9.16 /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+29 verbose already installed skipping jade@* /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+30 verbose already installed skipping mongoose@>= 3.8.0 /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+31 silly cache afterAdd node-windows@0.1.7
+32 verbose afterAdd /Users/sulabhvikas/.npm/node-windows/0.1.7/package/package.json not in flight; writing
+33 verbose already installed skipping debug@* /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+34 verbose afterAdd /Users/sulabhvikas/.npm/node-windows/0.1.7/package/package.json written
+35 silly install resolved [ { name: 'node-windows',
+35 silly install resolved     version: '0.1.7',
+35 silly install resolved     description: 'Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.',
+35 silly install resolved     keywords:
+35 silly install resolved      [ 'ngn',
+35 silly install resolved        'windows',
+35 silly install resolved        'service',
+35 silly install resolved        'daemon',
+35 silly install resolved        'logging',
+35 silly install resolved        'event',
+35 silly install resolved        'event logging',
+35 silly install resolved        'elevate',
+35 silly install resolved        'sudo',
+35 silly install resolved        'task' ],
+35 silly install resolved     author: { name: 'Corey Butler', email: 'corey@coreybutler.com' },
+35 silly install resolved     devDependencies: {},
+35 silly install resolved     main: 'lib/node-windows.js',
+35 silly install resolved     os: [ 'win32' ],
+35 silly install resolved     preferGlobal: true,
+35 silly install resolved     dependencies: { optimist: '~0.6.0' },
+35 silly install resolved     scripts: {},
+35 silly install resolved     repository:
+35 silly install resolved      { type: 'git',
+35 silly install resolved        url: 'git://github.com/coreybutler/node-windows.git' },
+35 silly install resolved     license: 'MIT',
+35 silly install resolved     engine: 'node >= 0.10.10',
+35 silly install resolved     bugs: { url: 'https://github.com/coreybutler/node-windows/issues' },
+35 silly install resolved     homepage: 'https://github.com/coreybutler/node-windows',
+35 silly install resolved     _id: 'node-windows@0.1.7',
+35 silly install resolved     dist:
+35 silly install resolved      { shasum: '60403cd37708c9487d3b3d1ae804c420490eddf8',
+35 silly install resolved        tarball: 'http://registry.npmjs.org/node-windows/-/node-windows-0.1.7.tgz' },
+35 silly install resolved     _from: 'node-windows@*',
+35 silly install resolved     _npmVersion: '1.3.25',
+35 silly install resolved     _npmUser: { name: 'cbutler', email: 'corey@coreybutler.com' },
+35 silly install resolved     maintainers: [ [Object] ],
+35 silly install resolved     directories: {},
+35 silly install resolved     _shasum: '60403cd37708c9487d3b3d1ae804c420490eddf8',
+35 silly install resolved     _resolved: 'https://registry.npmjs.org/node-windows/-/node-windows-0.1.7.tgz',
+35 silly install resolved     readme: 'ERROR: No README data found!' } ]
+36 info install node-windows@0.1.7 into /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+37 info installOne node-windows@0.1.7
+38 verbose installOne of node-windows to /Users/sulabhvikas/project_home/node_projects/node-survey-prod not in flight; installing
+39 verbose lock using /Users/sulabhvikas/.npm/_locks/node-windows-8433ceaeb3535944.lock for /Users/sulabhvikas/project_home/node_projects/node-survey-prod/node_modules/node-windows
+40 verbose unlock done using /Users/sulabhvikas/.npm/_locks/node-windows-8433ceaeb3535944.lock for /Users/sulabhvikas/project_home/node_projects/node-survey-prod/node_modules/node-windows
+41 verbose stack Error: Unsupported
+41 verbose stack     at checkPlatform (/usr/local/lib/node_modules/npm/node_modules/npm-install-checks/index.js:47:14)
+41 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+41 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+41 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+41 verbose stack     at checkEngine (/usr/local/lib/node_modules/npm/node_modules/npm-install-checks/index.js:11:20)
+41 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+41 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+41 verbose stack     at chain (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:20:5)
+41 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:949:5
+41 verbose stack     at /usr/local/lib/node_modules/npm/lib/utils/locker.js:40:9
+42 verbose pkgid node-windows@0.1.7
+43 verbose cwd /Users/sulabhvikas/project_home/node_projects/node-survey-prod
+44 error Darwin 13.4.0
+45 error argv "node" "/usr/local/bin/npm" "install"
+46 error node v0.12.0
+47 error npm  v2.5.1
+48 error code EBADPLATFORM
+49 error notsup Unsupported
+49 error notsup Not compatible with your operating system or architecture: node-windows@0.1.7
+49 error notsup Valid OS:    win32
+49 error notsup Valid Arch:  any
+49 error notsup Actual OS:   darwin
+49 error notsup Actual Arch: x64
+50 verbose exit [ 1, true ]

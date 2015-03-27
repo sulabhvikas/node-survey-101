@@ -1,0 +1,77 @@
+body {
+  padding-top: 50px;
+  background-color:#fff;
+}
+
+.navbar-inverse {
+    background-color: #0f006f;
+    border-color: #030033;
+}
+
+.tab-content .lead {
+	margin-top: 20px;
+}
+
+.result-table {
+	margin: 20px 0;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.result-table td {
+	padding: 8px;
+}
+
+.result-table > tbody > tr > td:first-child {
+	width: 25%;
+	max-width: 300px;
+	text-align: right;
+}
+.polllist-submit-btn{
+	width: 100%;
+}
+
+.question-category {
+	min-height: 20px;
+	padding: 12px;
+	margin-bottom: 15px;
+	background-color: #BCED91;
+	border: 1px solid #66CD00;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.order-list ol { counter-reset: item }
+.order-list li { display: block; margin: 0px 0px 20px; }
+.order-list li:before { content: counters(item, ".") " "; counter-increment: item;  }
+input {
+    border: 1px solid #e3e3e3; 
+	border-radius: 4px;
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+.comment-container{
+width: 75%;
+}
+
+.survey-comment-container{
+width: 100%;
+padding-left: 10px;
+}
+
+.centurylink-logo{
+width: 75%;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button-style {
+    position:fixed;
+    top:50%;
+    margin-left: 450px;
+}

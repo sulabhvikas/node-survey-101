@@ -1,0 +1,277 @@
+{
+    "__v": 9,
+    "_id": ObjectId("5443efc2ca3b0c2c35ba57e1"),
+    "name": "Appraiser Feedback on PEMS",
+    "polls": [
+        {
+            "_id": ObjectId("5443f8598dd42fdc065fa867"),
+            "category": "Timelines - Do you think current timelines for PEMS are adequate?",
+            "questions": [
+                {
+                    "question": "Self Appraisal timelines - 7 working days",
+                    "_id": ObjectId("5443f8598dd42fdc065fa868"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f8598dd42fdc065fa86b"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f8598dd42fdc065fa86a"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f8598dd42fdc065fa869"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "Appraiser review discussion & tool updating timelines - 10 working days",
+                    "_id": ObjectId("5443f88c8dd42fdc065fa86c"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f88c8dd42fdc065fa86f"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f88c8dd42fdc065fa86e"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f88c8dd42fdc065fa86d"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "Making changes  on tool post normalization - 2 days",
+                    "_id": ObjectId("5443f8e28dd42fdc065fa870"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f8e28dd42fdc065fa873"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f8e28dd42fdc065fa872"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f8e28dd42fdc065fa871"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": ObjectId("5443f93f8dd42fdc065fa874"),
+            "category": "Communication - The communication tool used for PEMS process",
+            "questions": [
+                {
+                    "question": "As an appraiser do you get ample qualitative time spend with the Appraisee  on discussing goals & review feedback discussion?",
+                    "_id": ObjectId("5443f93f8dd42fdc065fa875"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f93f8dd42fdc065fa878"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f93f8dd42fdc065fa877"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f93f8dd42fdc065fa876"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "Do you have sufficient and relevant information in order to carry out the PEMS review in a transparent & fair manner for the employees. (If NO, please specify reasons)",
+                    "_id": ObjectId("5443f97b8dd42fdc065fa879"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f97b8dd42fdc065fa87c"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f97b8dd42fdc065fa87b"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f97b8dd42fdc065fa87a"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Tool & Systems - Feedback on the PEMS tool, work flow and any other aspect related to network/system",
+            "_id": ObjectId("5443f9d98dd42fdc065fa87d"),
+            "questions": [
+                {
+                    "question": "Are you familiar with PEMS work flow and tool? (If NO, please specify any difficulty faced)",
+                    "_id": ObjectId("5443f9d98dd42fdc065fa87e"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443f9d98dd42fdc065fa881"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443f9d98dd42fdc065fa880"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443f9d98dd42fdc065fa87f"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": ObjectId("5443fa3a8dd42fdc065fa882"),
+            "category": "Learning & Development",
+            "questions": [
+                {
+                    "question": "While you identify the Training Needs (IDP ) for your Appraisee,  the focus is on",
+                    "_id": ObjectId("5443fa3a8dd42fdc065fa883"),
+                    "choices": [
+                        {
+                            "text": "Current project needs",
+                            "_id": ObjectId("5443fa3a8dd42fdc065fa886"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Skill gaps",
+                            "_id": ObjectId("5443fa3a8dd42fdc065fa885"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Future project needs",
+                            "_id": ObjectId("5443fa3a8dd42fdc065fa884"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "Is the Training Needs identified and recorded in consultation with the Appraisee?",
+                    "_id": ObjectId("5443fa6d8dd42fdc065fa887"),
+                    "choices": [
+                        {
+                            "text": "Yes",
+                            "_id": ObjectId("5443fa6d8dd42fdc065fa88a"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "No",
+                            "_id": ObjectId("5443fa6d8dd42fdc065fa889"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Can be improved or Not sure",
+                            "_id": ObjectId("5443fa6d8dd42fdc065fa888"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "To what extent has the Leadership and Performance Management workshop conducted by the L&D team helped you in carrying out your Leadership and Performance Management responsibilities?",
+                    "_id": ObjectId("5443faa68dd42fdc065fa88b"),
+                    "choices": [
+                        {
+                            "text": "No change",
+                            "_id": ObjectId("5443faa68dd42fdc065fa88e"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "Moderate level",
+                            "_id": ObjectId("5443faa68dd42fdc065fa88d"),
+                            "votes": [
+                                
+                            ]
+                        },
+                        {
+                            "text": "To a large extent",
+                            "_id": ObjectId("5443faa68dd42fdc065fa88c"),
+                            "votes": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "suggestions": [
+        
+    ]
+}

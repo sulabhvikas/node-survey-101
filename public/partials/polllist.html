@@ -1,0 +1,115 @@
+<div class="row">
+	<!--div class="page-header">
+		<h1>{{survey[0].name}}</h1>
+		<div ng-show="survey[1].isAuth">
+			<input type="text" class="form-control" ng-model="query" placeholder="Search for a poll">
+		</div>
+	</div-->	
+	<div class="container-fluid col-md-12 jumbotron">
+		<div class="page-header text-center h1">
+		  <span class="glyphicon glyphicon-fire"></span> 
+		  {{survey[0].name}}
+		</div>
+    </div>
+</div>
+<div ng-show="survey[1].isAuth">
+<div ng-hide="(poll[0].userVoted || survey[1].userVoted)">
+	<div class="row">
+		<div ng-show="survey[1].user_info.CUID == 'svikas'" class="col-xs-5">
+			<a href="#/newpoll/{{survey[0]._id}}" class="btn btn-default"><span class="glyphicon glyphicon-plus"></span> New Poll</a>
+		</div>
+		<div ng-hide="(survey[1].user_info.CUID == 'svikas')" class="col-xs-5">
+			<a class="btn btn-default"><span class="glyphicon glyphicon-hand-down"></span> <strong>Poll Questions</strong></a>
+		</div>
+		<div class="col-xs-7">
+			<input type="text" class="form-control" ng-model="query" placeholder="Search for a poll">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12"><hr></div>
+	</div>
+<form role="form" ng-submit="submitPoll()">
+	<div class="row" ng-switch on="survey[0].polls.length">
+		<ol ng-switch-default>
+			<li style="list-style-type: none;" ng-repeat="poll in survey[0].polls | filter:query">
+				<!--h4><a href="#/poll/{{poll._id}}">{{poll.category}}</a></h4-->
+				
+				<div class="question-category">
+					<h4><strong>[{{$index + 1}}] {{poll.category}}</strong></h4>
+				</div>
+				<ol>
+					<li style="list-style-type: none;" ng-init= "i=0" ng-repeat="question in poll.questions">
+						<div class="well well-lg">
+							<a ng-model="collapsed" ng-click="collapsed=!collapsed">
+								<strong>[{{$parent.$index + 1}}.{{$index + 1}}] Question</strong><br>{{question.question}}
+							</a>							
+						</div>
+						<div ng-repeat="choice in question.choices" class="radio" ng-show="collapsed">
+							<label>
+								<input type="radio" name="{{question._id}}.userVote" ng-model="question.userVote" ng-required='!question.userVote' value="{{choice._id}}">
+								{{choice.text}}
+							</label>
+						</div>
+							<!--tt>selected = {{question.userVote | json}}</tt><br/-->
+							<input type="text" class="comment-container" name="{{question._id}}.comments" ng-model="question.comments" ng-required='!question.comments' placeholder="Comments" ng-show="question.userVote">
+						
+						<br/>
+					</li>
+				</ol>
+			</li>
+		</ol>		
+	</div>
+	<div class="row">
+		<!--div class="question-category"-->
+			<h4><strong>Any Further Suggestions?</strong></h4>		
+		<!--/div-->
+		<input type="text" class="survey-comment-container" name="survey-comments" ng-model="anysuggestions" placeholder="Comments">
+		<!--{{selected_ids | json}}-->
+	
+		<!--div class="col-xs-6">
+			<a href="#/polls" class="btn btn-default" role="button"><span class="glyphicon glyphicon-arrow-left"></span> Back to Poll List</a>
+		</div-->
+		<br/>
+		<div class="col-xs-6 polllist-submit-btn">
+			<button class="btn btn-primary pull-right" type="submit">Submit Survey &raquo;</button>
+		</div>
+	</div>	
+</form>
+</div>
+<div ng-show="(poll[0].userVoted || survey[1].userVoted)" class="well well-lg">
+	<p class="lead"><Strong>{{survey[1].user_info.EMP_NAME}}</Strong>, thank you for participating in {{survey[0].name}}.</p>
+
+	<table class="result-table">
+		<tr>
+			<td>Submissions</td>
+			<td>
+				<table style="background-color: lightgreen; width: {{(survey[1].totalVotes/9)/204*100}}%; text-align: right">
+					<tr><td>{{survey[1].totalVotes/9}}</td></tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>Pending</td>
+			<td>
+				<table style="background-color: lightblue; width: {{((204-(survey[1].totalVotes)/9))/204*100}}%; text-align: right">
+					<tr><td>{{204 - survey[1].totalVotes/9}}</td></tr>
+				</table>
+			</td>
+		</tr>		
+	</table>
+	<p>
+		<em>
+			<strong>{{survey[1].totalVotes / 9}}</strong> users have voted so far for the 9 survey questions
+			<span ng-show="poll.userChoice">You voted for <strong>{{poll.userChoice.text}}</strong>.</span>
+		</em>
+	</p>
+	
+	<p><hr></p>
+</div>
+</div>
+<div ng-hide="survey[1].isAuth">
+	<div class="well well-lg">
+		<strong>{{survey[1].user_info.EMP_NAME}} not authorized for this survey.</strong><br>
+	</div>
+</div>
+<p>&nbsp;</p>

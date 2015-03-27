@@ -1,0 +1,18 @@
+<div ng-show="surveys[1].isAuth">
+	<div class="row" ng-switch on="surveys.length">
+	  <ul ng-switch-default style="list-style-type: none;">
+		<li ng-repeat="survey in surveys | filter:query | orderBy:'category':false">
+			<div ng-show="survey.name">
+				<a href="#/surveys/{{survey._id}}" class="btn btn-primary btn-lg button-style"><span class="glyphicon glyphicon-fire"></span> <strong>{{survey.name}}</strong></a>
+			</div>
+		  <!--a href="#/surveys/{{survey._id}}"><span style="padding: 20px 25px;color: black;font-size: 40px;">{{survey.name}}</span></a-->
+		</li>
+	  </ul>
+	</div>
+</div>		
+<div ng-hide="surveys[1].isAuth">
+	<div class="well well-lg">
+		<strong>{{surveys[1].user_info.EMP_NAME}} not authorized for this survey.</strong><br>
+	</div>
+</div>	
+        <p>&nbsp;</p>
