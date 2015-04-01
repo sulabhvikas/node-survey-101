@@ -3,6 +3,13 @@ var app = require('../app');
 var mongoose = require('mongoose');
 var db;
 var domain = "CTL\\";
+var auth_user_static = {
+        "EMP_NAME": "Sulabh Vikas",
+        "EMP_ID": "165",
+        "CUID": "svikas",
+        "Level": "7",
+        "Division": "Narendra Marikale"
+    };
 
 if (process.env.VCAP_SERVICES) {
    var env = JSON.parse(process.env.VCAP_SERVICES);
@@ -22,7 +29,11 @@ var User = db.model('users', UserSchema);
 
 // Main application view
 exports.index = function(req, res) {
-	res.render('index');
+	var username = 'svikas'
+	//req.session.isAuthSuccess = true;
+	//req.session.authUser = username;
+	res.render('index', {user: username});
+	//res.render('index');
 };
 
 exports.index_ntlm = function(req, res) {
@@ -90,7 +101,8 @@ exports.surveylist = function(req, res) {
 	});*/
 	
 	Survey.find({}, '', function(error, surveys) {
-		surveys.push({user_info: req.session.authUser, isAuth: req.session.isAuthSuccess});
+		//surveys.push({user_info: req.session.authUser, isAuth: req.session.isAuthSuccess});
+		surveys.push({user_info: auth_user_static, isAuth: true});
 		res.json(surveys);
 	});
 };

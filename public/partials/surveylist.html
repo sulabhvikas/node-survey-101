@@ -1,4 +1,21 @@
-<div ng-show="surveys[1].isAuth">
+<!--div ng-show="surveys[1].isAuth"-->
+<div class="page-header">
+	<h1>Surveys</h1>
+</div>
+<div class="row">
+  <div class="col-xs-5">
+    <a href="#/newsurvey" class="btn btn-default"><span class="glyphicon glyphicon-plus"></span> New Survey</a>
+  </div>
+  <div class="col-xs-7">
+    <input type="text" class="form-control" ng-model="query" placeholder="Search for a Survey">
+  </div>
+</div>
+<div class="row">
+	<div class="col-xs-12">
+		<hr>
+	</div>
+</div>
+<div>
 	<div class="row" ng-switch on="surveys.length">
 	  <ul ng-switch-default style="list-style-type: none;">
 		<li ng-repeat="survey in surveys | filter:query | orderBy:'category':false">
@@ -10,9 +27,9 @@
 	  </ul>
 	</div>
 </div>		
-<div ng-hide="surveys[1].isAuth">
+<!--div ng-hide="surveys[1].isAuth">
 	<div class="well well-lg">
 		<strong>{{surveys[1].user_info.EMP_NAME}} not authorized for this survey.</strong><br>
 	</div>
-</div>	
+</div-->	
         <p>&nbsp;</p>

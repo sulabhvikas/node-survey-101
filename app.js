@@ -35,17 +35,15 @@ fs.readFile('users.json', 'utf8', function (err, data) {
 
 //var users = JSON.parse(fs.readFileSync('users.json'));
 
-users.AuthUser.find(function(err, data) {
-	//console.log(users);
+/*users.AuthUser.find(function(err, data) {
+	console.log(users);
 	if(err || !data) {
 	  console.log('err='+err);
 	  throw 'Error';
 	} else {
-		//users = data;
 		exports.authusers = data;
-		//console.log(data);
 	}
-});	
+});	*/
 
 app.set('port', process.env.VCAP_APP_PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
@@ -59,28 +57,32 @@ app.use(express.methodOverride());
 var cookieParser = express.cookieParser('S3CRE7')
 app.use(cookieParser);
 //var sessionStore = new MongoStore({
-//    db: 'surveyschema',
-//    host: 10.127.34.152
-//  });
+    //db: 'surveysessions',
+    //host: '10.127.34.152',
+    //port: 10003,
+    //username: '5e5270be-edab-4ea1-8d7f-690a51d38e58',
+    //password: '80b6e4fc-23e0-4c58-9ec5-db97177121a6'
+    //url: 'mongodb://5e5270be-edab-4ea1-8d7f-690a51d38e58:80b6e4fc-23e0-4c58-9ec5-db97177121a6@10.127.34.152:10003/surveyschema'
+  //});
 //var sessionSockets = new SessionSockets(io, sessionStore, cookieParser);
 //app.use(express.cookieSession());
 //app.use(express.session({
-//  store: sessionStore
+  //store: sessionStore
 //}));
 app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 // Handle Errors gracefully
-app.use(function(err, req, res, next) {
+/*app.use(function(err, req, res, next) {
 	if(!err) return next();
 	console.log(err.stack);
 	res.json({error: true});
-});
+});*/
 
 //app.all('/', ntlm());
 
-app.get('/', routes.index);
+//app.get('/', routes.index_ntlm);
 // Main App Page - Use this when you don't need NTLM authentication
-//app.get('/', routes.index);
+app.get('/', routes.index);
 
 // MongoDB API Routes
 app.get('/surveys/surveys', routes.surveylist);

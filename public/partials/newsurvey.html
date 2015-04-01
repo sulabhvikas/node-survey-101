@@ -1,0 +1,20 @@
+ <div class="page-header">
+          <h1>Add New Books</h1>
+        </div>
+        <form role="form" ng-submit="createSurvey()">
+          <div class="form-group">
+            <input type="text" ng-model="survey.name" class="form-control" id="survey" placeholder="Enter survey name">
+          </div>
+          <p><hr></p>
+          <div class="row">
+            <div class="col-xs-6">
+              <a href="#/surveys/surveys" class="btn btn-default" role="button">
+              	<span class="glyphicon glyphicon-arrow-left"></span> 
+					Back to Survey List</a>
+            </div>
+            <div class="col-xs-6">
+              <button class="btn btn-primary pull-right" type="submit">	Create Survey &raquo;</button>
+            </div>
+          </div>
+          <p>&nbsp;</p>
+        </form>
