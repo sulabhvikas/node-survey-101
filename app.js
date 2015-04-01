@@ -1,6 +1,6 @@
 /*jshint node:true*/
 var express = require('express');
-var ntlm = require('express-ntlm');
+//var ntlm = require('express-ntlm');
 var routes = require('./routes');
 var users = require('./routes/users');
 var http = require('http');
@@ -58,15 +58,15 @@ app.use(express.bodyParser());
 app.use(express.methodOverride());
 var cookieParser = express.cookieParser('S3CRE7')
 app.use(cookieParser);
-var sessionStore = new MongoStore({
-    db: 'surveyschema',
-    host: '127.0.0.1'
-  });
+//var sessionStore = new MongoStore({
+//    db: 'surveyschema',
+//    host: 10.127.34.152
+//  });
 //var sessionSockets = new SessionSockets(io, sessionStore, cookieParser);
 //app.use(express.cookieSession());
-app.use(express.session({
-  store: sessionStore
-}));
+//app.use(express.session({
+//  store: sessionStore
+//}));
 app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
 // Handle Errors gracefully
@@ -76,9 +76,9 @@ app.use(function(err, req, res, next) {
 	res.json({error: true});
 });
 
-app.all('/', ntlm());
+//app.all('/', ntlm());
 
-app.get('/', routes.index_ntlm);
+app.get('/', routes.index);
 // Main App Page - Use this when you don't need NTLM authentication
 //app.get('/', routes.index);
 

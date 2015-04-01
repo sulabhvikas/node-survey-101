@@ -11,8 +11,6 @@
 		"jade": "*",
 		"mongoose": ">= 3.8.0",
 		"debug": "*",
-		"express-ntlm": "*",
-		"connect-mongo": "*",
-		"node-windows": "*"
+		"connect-mongo": "*"
   }
 }
